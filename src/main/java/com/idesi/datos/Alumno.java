@@ -17,6 +17,7 @@ public class Alumno {
     }
     
     public Alumno(){
+        this.nombre = "";
         this.asignatura = "";
         this.docente = "";
         this.codigo = "";
